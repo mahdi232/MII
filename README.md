@@ -36,8 +36,11 @@ sudo apt install libsdl2-ttf-dev libsdl2-net-dev libsdl2-mixer-dev
 ```
 ### Authors
 Mahdi klouz <mahdiklouz@gmail.com>
+
 ines ktiti <ines_ktiti@icloud.com>
 iheb zrig <houba150@gmail.com>
+
+Amine B. Hassouna [@aminosbh](https://gitlab.com/aminosbh)
 ## Build instructions
 
 ```sh
