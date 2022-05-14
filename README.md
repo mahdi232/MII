@@ -1,7 +1,7 @@
 # MII
 
 This project is written in C and uses [CMake][] as a build system.<br>
-It shows how we can make a basic animation using [SDL2][SDL] : Flying plane.
+It shows how we can make a basic animation using [SDL2][SDL] 
 
 
 It could be used as a base for any SDL2 game. Just fork it, clone it and
