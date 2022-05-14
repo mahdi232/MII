@@ -34,7 +34,10 @@ sudo apt install git build-essential pkg-config cmake cmake-data libsdl2-dev lib
 ```sh
 sudo apt install libsdl2-ttf-dev libsdl2-net-dev libsdl2-mixer-dev
 ```
-
+### Authors
+Mahdi klouz <mahdiklouz@gmail.com>
+ines ktiti <ines_ktiti@icloud.com>
+iheb zrig <houba150@gmail.com>
 ## Build instructions
 
 ```sh
