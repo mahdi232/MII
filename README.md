@@ -39,7 +39,7 @@ sudo apt install libsdl2-ttf-dev libsdl2-net-dev libsdl2-mixer-dev
 
 ```sh
 # Clone this repo
-git clone https://gitlab.com/aminosbh/MII.git
+git clone https://github.com/mahdi232/MII.git
 cd MII
 
 # Create a build folder
